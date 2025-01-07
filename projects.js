@@ -26,18 +26,21 @@ const projectData = {
         description: "Description: Ad Blocker is a chrome extension that blocks ads from appearing on websites. The extension is built using HTML, CSS, and JavaScript.",
         image: "assets/img/P-6.png",
         techStack: "Tech Stack: HTML, TailwindCSS, JavaScript",
+        link: ""
     },
     flashChat: {
         name: "Flash Chat",
         description: "Description: Flash Chat is a real-time chatting app. The app is built using Flutter and Dart.",
         image: "img/P-3.png",
         techStack: "Tech Stack: Flutter, Dart, Firebase, FirebaseAuth, Cloud Firestore",
+        link: ""
     },
     bmiCalaulator: {
         name: "BMI Calculator",
         description: "BMI Calculator is a simple app to calculate BMI. The app is built using Flutter and Dart.",
         image: "./img/P-4.png",
-        techStack: "Flutter, Dart",
+        techStack: "Flutter, Dart, Figma",
+        link: ""
     },
 };
 
